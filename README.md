@@ -6,15 +6,23 @@ A Machine Learning web application that predicts California house prices using a
 
 ## Live Demo
 
-**Application**
+### Application
 
 https://house-price-prediction0007.streamlit.app/
 
-**API Documentation**
-API Application
-```
-[http://127.0.0.1:8000/docs](https://house-price-api-ekwk.onrender.com/docs)
-```
+### API
+
+https://house-price-api-ekwk.onrender.com
+
+### API Documentation (Swagger UI)
+
+https://house-price-api-ekwk.onrender.com/docs
+
+### API Documentation (ReDoc)
+
+https://house-price-api-ekwk.onrender.com/redoc
+
+---
 
 ## Features
 
@@ -45,12 +53,11 @@ API Application
 
 ## Machine Learning Model
 
-Model: Random Forest Regressor
+**Model:** Random Forest Regressor
 
-Dataset:
-California Housing Dataset from Scikit-learn
+**Dataset:** California Housing Dataset (Scikit-learn)
 
-Evaluation Metrics
+### Evaluation Metrics
 
 - Mean Absolute Error (MAE)
 - R² Score
@@ -61,7 +68,7 @@ The trained model is saved using Joblib and loaded into the FastAPI application 
 
 ## Project Structure
 
-```
+```text
 House-Price-Prediction/
 │
 ├── main.py
@@ -108,9 +115,7 @@ Create a virtual environment
 python -m venv venv
 ```
 
-Activate the virtual environment
-
-Windows
+Activate the virtual environment (Windows)
 
 ```bash
 venv\Scripts\activate
@@ -183,21 +188,20 @@ http://localhost:8501
 
 ### Streamlit Dashboard
 
-_Add Screenshot Here_
+_Add screenshot here_
 
 ### Prediction Result
 
-_Add Screenshot Here_
+_Add screenshot here_
 
 ### Swagger API Documentation
 
-_Add Screenshot Here_
+_Add screenshot here_
 
 ---
 
 ## Future Improvements
 
-- Deploy FastAPI on Render or Railway
 - Docker Support
 - User Authentication
 - Database Integration
@@ -205,6 +209,7 @@ _Add Screenshot Here_
 - Model Comparison
 - Feature Importance Visualization
 - CI/CD Pipeline
+- Cloud Model Registry
 
 ---
 
@@ -212,13 +217,11 @@ _Add Screenshot Here_
 
 **Rajan Jaiswal**
 
-GitHub
-
+GitHub:  
 https://github.com/rajanjaiswalml
 
-LinkedIn
-
-Add your LinkedIn profile here.
+LinkedIn:  
+_Add your LinkedIn profile here._
 
 ---
 
