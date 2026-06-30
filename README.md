@@ -11,20 +11,10 @@ A Machine Learning web application that predicts California house prices using a
 https://house-price-prediction0007.streamlit.app/
 
 **API Documentation**
-
-Local Development
-
+API Application
 ```
-http://127.0.0.1:8000/docs
+[http://127.0.0.1:8000/docs](https://house-price-api-ekwk.onrender.com/docs)
 ```
-
-ReDoc
-
-```
-http://127.0.0.1:8000/redoc
-```
-
----
 
 ## Features
 
