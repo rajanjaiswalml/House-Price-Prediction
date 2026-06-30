@@ -1,5 +1,11 @@
 # House Price Prediction System
 
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
+![Streamlit](https://img.shields.io/badge/Streamlit-Frontend-red)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 A Machine Learning web application that predicts California house prices using a Random Forest Regressor. The project includes a FastAPI backend for serving predictions and a Streamlit frontend for an interactive user experience.
 
 ---
